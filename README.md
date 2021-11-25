@@ -1,5 +1,3 @@
-# CV_Scene_Text_Recognition
-Computer Vision Term Project - 
 # 2021 Computer Vision Term Project
 4개 분야 선정하여 베이스라인 찍기
 ## My Repository
