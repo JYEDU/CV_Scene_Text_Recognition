@@ -1,0 +1,2172 @@
+[1/300000] Train loss: 4.88650, Valid loss: 4.47698, Elapsed_time: 13.82020
+Current_accuracy : 0.008, Current_norm_ED  : 0.02
+Best_accuracy    : 0.008, Best_norm_ED     : 0.02
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+aye                       |                           | 0.0327	False
+sale                      | wppccc                    | 0.0000	False
+the                       | aaaaattt                  | 0.0000	False
+one                       |                           | 0.0000	False
+public                    |                           | 0.0411	False
+--------------------------------------------------------------------------------
+[2000/300000] Train loss: 1.37048, Valid loss: 3.11294, Elapsed_time: 1512.27419
+Current_accuracy : 44.037, Current_norm_ED  : 0.78
+Best_accuracy    : 44.037, Best_norm_ED     : 0.78
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ipswich                   | lpswich                   | 0.2729	False
+hotel                     | hottl                     | 0.0751	False
+the                       | ahe                       | 0.0392	False
+stairs                    | stairs                    | 0.0880	True
+load                      | loadd                     | 0.0878	False
+--------------------------------------------------------------------------------
+[4000/300000] Train loss: 0.52910, Valid loss: 2.92727, Elapsed_time: 3012.35009
+Current_accuracy : 63.040, Current_norm_ED  : 0.85
+Best_accuracy    : 63.040, Best_norm_ED     : 0.85
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+land                      | land                      | 0.5172	True
+passages                  | pusasges                  | 0.0316	False
+priory                    | priory                    | 0.3028	True
+kolo                      | kolo                      | 0.2964	True
+whitcomb                  | whitccobb                 | 0.0020	False
+--------------------------------------------------------------------------------
+[6000/300000] Train loss: 0.39490, Valid loss: 2.86024, Elapsed_time: 4514.44198
+Current_accuracy : 66.371, Current_norm_ED  : 0.87
+Best_accuracy    : 66.371, Best_norm_ED     : 0.87
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sounds                    | sqnnss                    | 0.0062	False
+residence                 | residence                 | 0.5886	True
+analysis                  | analysis                  | 0.0233	True
+mediterranean             | meditoraanaan             | 0.0028	False
+super                     | super                     | 0.3819	True
+--------------------------------------------------------------------------------
+[8000/300000] Train loss: 0.33983, Valid loss: 2.91448, Elapsed_time: 6018.65919
+Current_accuracy : 68.948, Current_norm_ED  : 0.88
+Best_accuracy    : 68.948, Best_norm_ED     : 0.88
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+satis                     | satis                     | 0.1765	True
+subw                      | lsubw                     | 0.1792	False
+further                   | furier                    | 0.0100	False
+department                | department                | 0.2065	True
+edition                   | edioo                     | 0.0243	False
+--------------------------------------------------------------------------------
+[10000/300000] Train loss: 0.30494, Valid loss: 2.99973, Elapsed_time: 7518.36273
+Current_accuracy : 70.026, Current_norm_ED  : 0.88
+Best_accuracy    : 70.026, Best_norm_ED     : 0.88
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+love                      | love                      | 0.5079	True
+google                    | google                    | 0.8430	True
+always                    | always                    | 0.8657	True
+strings                   | strings                   | 0.9619	True
+seacrest                  | seacrest                  | 0.0650	True
+--------------------------------------------------------------------------------
+[12000/300000] Train loss: 0.28326, Valid loss: 2.94874, Elapsed_time: 9020.52552
+Current_accuracy : 70.863, Current_norm_ED  : 0.88
+Best_accuracy    : 70.863, Best_norm_ED     : 0.88
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+field                     | field                     | 0.3280	True
+down                      | down                      | 0.8334	True
+dining                    | biaing                    | 0.0193	False
+nikon                     | nikon                     | 0.9870	True
+anthropologie             | anthropolocie             | 0.0002	False
+--------------------------------------------------------------------------------
+[14000/300000] Train loss: 0.26314, Valid loss: 2.88418, Elapsed_time: 10523.72908
+Current_accuracy : 73.084, Current_norm_ED  : 0.89
+Best_accuracy    : 73.084, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+guildford                 | guildford                 | 0.6044	True
+state                     | state                     | 0.6198	True
+jim                       | jm                        | 0.6683	False
+for                       | for                       | 0.9992	True
+forum                     | forum                     | 0.7963	True
+--------------------------------------------------------------------------------
+[16000/300000] Train loss: 0.24765, Valid loss: 2.95236, Elapsed_time: 11620.22443
+Current_accuracy : 73.564, Current_norm_ED  : 0.89
+Best_accuracy    : 73.564, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+tilda                     | tilda                     | 0.7477	True
+mulberry                  | millberyy                 | 0.2380	False
+bits                      | bits                      | 0.9379	True
+service                   | service                   | 0.0162	True
+floor                     | flook                     | 0.5630	False
+--------------------------------------------------------------------------------
+[18000/300000] Train loss: 0.23586, Valid loss: 3.05253, Elapsed_time: 12470.33640
+Current_accuracy : 74.003, Current_norm_ED  : 0.90
+Best_accuracy    : 74.003, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+down                      | down                      | 0.2704	True
+kitchen                   | kitchon                   | 0.1247	False
+wystepuja                 | wystepulac                | 0.6220	False
+gene                      | gene                      | 0.2006	True
+shoe                      | shoe                      | 0.9461	True
+--------------------------------------------------------------------------------
+[20000/300000] Train loss: 0.22618, Valid loss: 3.24274, Elapsed_time: 13321.56660
+Current_accuracy : 73.763, Current_norm_ED  : 0.90
+Best_accuracy    : 74.003, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+the                       | the                       | 0.3092	True
+cierge                    | cirgge                    | 0.0627	False
+the                       | thes                      | 0.9791	False
+centre                    | centre                    | 0.9631	True
+can                       | can                       | 0.4548	True
+--------------------------------------------------------------------------------
+[22000/300000] Train loss: 0.21560, Valid loss: 3.12506, Elapsed_time: 14171.84509
+Current_accuracy : 73.390, Current_norm_ED  : 0.90
+Best_accuracy    : 74.003, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+fashion                   | fashion                   | 0.2989	True
+into                      | into                      | 0.3497	True
+centre                    | centre                    | 0.4011	True
+pay                       | pay                       | 0.9987	True
+butter                    | butter                    | 0.8964	True
+--------------------------------------------------------------------------------
+[24000/300000] Train loss: 0.21050, Valid loss: 3.12782, Elapsed_time: 15034.92379
+Current_accuracy : 74.965, Current_norm_ED  : 0.90
+Best_accuracy    : 74.965, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+lost                      | i                         | 0.7473	False
+forever                   | forever                   | 0.5135	True
+staff                     | staff                     | 0.8894	True
+india                     | india                     | 0.3640	True
+says                      | says                      | 0.3442	True
+--------------------------------------------------------------------------------
+[26000/300000] Train loss: 0.20355, Valid loss: 2.93159, Elapsed_time: 15892.33275
+Current_accuracy : 75.238, Current_norm_ED  : 0.90
+Best_accuracy    : 75.238, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+soon                      | soov                      | 0.2334	False
+next                      | next                      | 0.9899	True
+leaf                      | a                         | 0.5149	False
+your                      | your                      | 0.9619	True
+daily                     | daily                     | 0.9076	True
+--------------------------------------------------------------------------------
+[28000/300000] Train loss: 0.19781, Valid loss: 2.99106, Elapsed_time: 16747.47340
+Current_accuracy : 74.981, Current_norm_ED  : 0.90
+Best_accuracy    : 75.238, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+soup                      | soup                      | 0.8128	True
+raffles                   | capees                    | 0.0001	False
+kutcher                   | kutcher                   | 0.7656	True
+jan                       | out                       | 0.0504	False
+reductions                | reouchooss                | 0.0089	False
+--------------------------------------------------------------------------------
+[30000/300000] Train loss: 0.19125, Valid loss: 3.28388, Elapsed_time: 17606.05200
+Current_accuracy : 74.816, Current_norm_ED  : 0.90
+Best_accuracy    : 75.238, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+eye                       | eye                       | 0.7902	True
+lookout                   | lockoy                    | 0.0407	False
+let                       | let                       | 0.3174	True
+cash                      | cash                      | 0.6219	True
+council                   | council                   | 0.2936	True
+--------------------------------------------------------------------------------
+[32000/300000] Train loss: 0.18611, Valid loss: 3.05172, Elapsed_time: 18462.37315
+Current_accuracy : 76.050, Current_norm_ED  : 0.90
+Best_accuracy    : 76.050, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+anaheim                   | anaheim                   | 0.2602	True
+wealth                    | wealth                    | 0.0789	True
+794455                    | 794455                    | 0.3729	True
+powder                    | powder                    | 0.9234	True
+samsung                   | samsung                   | 0.5987	True
+--------------------------------------------------------------------------------
+[34000/300000] Train loss: 0.18442, Valid loss: 3.09214, Elapsed_time: 19319.98906
+Current_accuracy : 76.200, Current_norm_ED  : 0.91
+Best_accuracy    : 76.200, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+art                       | art                       | 0.6452	True
+gets                      | gets                      | 0.8350	True
+seating                   | seating                   | 0.3608	True
+kolind                    | voling                    | 0.0036	False
+rush                      | aussh                     | 0.0003	False
+--------------------------------------------------------------------------------
+[36000/300000] Train loss: 0.17892, Valid loss: 3.25824, Elapsed_time: 20178.14648
+Current_accuracy : 76.158, Current_norm_ED  : 0.91
+Best_accuracy    : 76.200, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+forum                     | forum                     | 0.4986	True
+oldenburg                 | oldenburg                 | 0.6434	True
+state                     | state                     | 0.3839	True
+everest                   | everest                   | 0.0312	True
+court                     | court                     | 0.6583	True
+--------------------------------------------------------------------------------
+[38000/300000] Train loss: 0.17721, Valid loss: 3.13627, Elapsed_time: 21035.15336
+Current_accuracy : 76.158, Current_norm_ED  : 0.90
+Best_accuracy    : 76.200, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+to                        | to                        | 0.9927	True
+wharf                     | wharf                     | 0.9932	True
+coast                     | coast                     | 0.8065	True
+paris                     | paris                     | 0.4015	True
+field                     | ficld                     | 0.1303	False
+--------------------------------------------------------------------------------
+[40000/300000] Train loss: 0.17246, Valid loss: 3.02834, Elapsed_time: 21893.20250
+Current_accuracy : 75.818, Current_norm_ED  : 0.90
+Best_accuracy    : 76.200, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+key                       | key                       | 0.3607	True
+modified                  | moditied                  | 0.0824	False
+gift                      | gift                      | 0.1706	True
+mastercard                | masteraadd                | 0.0006	False
+time                      | time                      | 0.8662	True
+--------------------------------------------------------------------------------
+[42000/300000] Train loss: 0.17041, Valid loss: 3.20759, Elapsed_time: 22752.77329
+Current_accuracy : 76.863, Current_norm_ED  : 0.91
+Best_accuracy    : 76.863, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+it                        | it                        | 0.9775	True
+vehicles                  | vehicles                  | 0.3198	True
+pleatation                | pleatation                | 0.2506	True
+the                       | the                       | 0.3022	True
+ilet                      | ilet                      | 0.4231	True
+--------------------------------------------------------------------------------
+[44000/300000] Train loss: 0.16718, Valid loss: 3.10944, Elapsed_time: 23615.39138
+Current_accuracy : 77.194, Current_norm_ED  : 0.91
+Best_accuracy    : 77.194, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sale                      | sale                      | 0.1907	True
+street                    | streen                    | 0.1440	False
+avenue                    | avenue                    | 0.7939	True
+ladies                    | ladies                    | 0.4716	True
+oetker                    | oetker                    | 0.8231	True
+--------------------------------------------------------------------------------
+[46000/300000] Train loss: 0.16421, Valid loss: 3.12286, Elapsed_time: 24472.14710
+Current_accuracy : 77.269, Current_norm_ED  : 0.91
+Best_accuracy    : 77.269, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+car                       | car                       | 0.9995	True
+angelo                    | angele                    | 0.7065	False
+heritage                  | heritage                  | 0.1963	True
+sprinkler                 | sprinkler                 | 0.2800	True
+family                    | family                    | 0.8138	True
+--------------------------------------------------------------------------------
+[48000/300000] Train loss: 0.15850, Valid loss: 2.99055, Elapsed_time: 25338.49353
+Current_accuracy : 77.559, Current_norm_ED  : 0.91
+Best_accuracy    : 77.559, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+vehicles                  | vehicles                  | 0.4726	True
+rolex                     | rolex                     | 0.7579	True
+use                       | use                       | 0.2477	True
+rossellini                | bossellini                | 0.5135	False
+operation                 | operation                 | 0.4723	True
+--------------------------------------------------------------------------------
+[50000/300000] Train loss: 0.15817, Valid loss: 3.25565, Elapsed_time: 26198.32527
+Current_accuracy : 77.865, Current_norm_ED  : 0.91
+Best_accuracy    : 77.865, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ind                       | indl                      | 0.3906	False
+uob                       | lob                       | 0.1154	False
+vijayawada                | vijnywaad                 | 0.0001	False
+louis                     | louis                     | 0.6079	True
+jan                       | out                       | 0.0422	False
+--------------------------------------------------------------------------------
+[52000/300000] Train loss: 0.15729, Valid loss: 3.18421, Elapsed_time: 27055.88716
+Current_accuracy : 77.592, Current_norm_ED  : 0.91
+Best_accuracy    : 77.865, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+gallery                   | gallery                   | 0.4454	True
+you                       | you                       | 0.4991	True
+sale                      | sale                      | 0.8637	True
+clinic                    | clinic                    | 0.3331	True
+waka                      | waxal                     | 0.0394	False
+--------------------------------------------------------------------------------
+[54000/300000] Train loss: 0.15369, Valid loss: 3.13816, Elapsed_time: 27912.37258
+Current_accuracy : 77.559, Current_norm_ED  : 0.91
+Best_accuracy    : 77.865, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+posb                      | posb                      | 0.2740	True
+and                       | po                        | 0.0399	False
+accessorize               | accessorize               | 0.3741	True
+gas                       | gas                       | 0.6778	True
+out                       | out                       | 0.9999	True
+--------------------------------------------------------------------------------
+[56000/300000] Train loss: 0.15353, Valid loss: 3.33673, Elapsed_time: 28772.02267
+Current_accuracy : 77.517, Current_norm_ED  : 0.91
+Best_accuracy    : 77.865, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+home                      | home                      | 0.9395	True
+tees                      | tees                      | 0.9318	True
+auto                      | kure                      | 0.0395	False
+priory                    | priory                    | 0.1113	True
+visible                   | visiale                   | 0.0855	False
+--------------------------------------------------------------------------------
+[1/300000] Train loss: 4.91453, Valid loss: 4.52391, Elapsed_time: 0.39508
+Current_accuracy : 0.008, Current_norm_ED  : 0.04
+Best_accuracy    : 0.008, Best_norm_ED     : 0.04
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+our                       | daaadaea                  | 0.0000	False
+and                       |                           | 0.0014	False
+sons                      | o                         | 0.0555	False
+dome                      | aac                       | 0.0000	False
+pocket                    | ho                        | 0.0029	False
+--------------------------------------------------------------------------------
+[1/300000] Train loss: 4.91453, Valid loss: 4.52391, Elapsed_time: 0.39196
+Current_accuracy : 0.008, Current_norm_ED  : 0.04
+Best_accuracy    : 0.008, Best_norm_ED     : 0.04
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+our                       | daaadaea                  | 0.0000	False
+and                       |                           | 0.0014	False
+sons                      | o                         | 0.0555	False
+dome                      | aac                       | 0.0000	False
+pocket                    | ho                        | 0.0029	False
+--------------------------------------------------------------------------------
+[2000/300000] Train loss: 1.54945, Valid loss: 3.11819, Elapsed_time: 596.67222
+Current_accuracy : 14.453, Current_norm_ED  : 0.67
+Best_accuracy    : 14.453, Best_norm_ED     : 0.67
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+off                       | off                       | 0.2490	True
+zoll                      | zooll                     | 0.1500	False
+britain                   | brrttann                  | 0.0047	False
+50                        | 50                        | 0.2833	True
+prototype                 | prooootpp                 | 0.0284	False
+--------------------------------------------------------------------------------
+[4000/300000] Train loss: 0.65838, Valid loss: 2.75894, Elapsed_time: 1191.96288
+Current_accuracy : 54.081, Current_norm_ED  : 0.82
+Best_accuracy    : 54.081, Best_norm_ED     : 0.82
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+first                     | fert                      | 0.0859	False
+signboards                | signboards                | 0.1829	True
+express                   | exprees                   | 0.0082	False
+chase                     | chaset                    | 0.0158	False
+shopping                  | shopping                  | 0.5111	True
+--------------------------------------------------------------------------------
+[6000/300000] Train loss: 0.50085, Valid loss: 2.65543, Elapsed_time: 1787.10478
+Current_accuracy : 62.252, Current_norm_ED  : 0.85
+Best_accuracy    : 62.252, Best_norm_ED     : 0.85
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+cola                      | gel                       | 0.2581	False
+75                        | 75                        | 0.9566	True
+carpark                   | carpark                   | 0.6646	True
+ntre                      | nire                      | 0.0809	False
+orchar                    | oachar                    | 0.2922	False
+--------------------------------------------------------------------------------
+[8000/300000] Train loss: 0.43009, Valid loss: 2.70978, Elapsed_time: 2383.99028
+Current_accuracy : 55.847, Current_norm_ED  : 0.84
+Best_accuracy    : 62.252, Best_norm_ED     : 0.85
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+directory                 | direettorr                | 0.0540	False
+school                    | scyoes                    | 0.0073	False
+tiny                      | tiny                      | 0.7698	True
+mews                      | mews                      | 0.9799	True
+keep                      | keep                      | 0.9936	True
+--------------------------------------------------------------------------------
+[10000/300000] Train loss: 0.38980, Valid loss: 2.65446, Elapsed_time: 2979.98993
+Current_accuracy : 62.824, Current_norm_ED  : 0.86
+Best_accuracy    : 62.824, Best_norm_ED     : 0.86
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+underground               | unlergoond                | 0.0003	False
+udx                       | udx                       | 0.9550	True
+parks                     | parks                     | 0.9923	True
+gallery                   | gallerry                  | 0.0404	False
+when                      | when                      | 0.9856	True
+--------------------------------------------------------------------------------
+[12000/300000] Train loss: 0.36161, Valid loss: 2.88369, Elapsed_time: 3577.29299
+Current_accuracy : 67.589, Current_norm_ED  : 0.87
+Best_accuracy    : 67.589, Best_norm_ED     : 0.87
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+found                     | found                     | 0.3914	True
+clooney                   | clodney                   | 0.4929	False
+ageing                    | ageing                    | 0.0137	True
+tony                      | tony                      | 0.9962	True
+airlines                  | arreein                   | 0.0000	False
+--------------------------------------------------------------------------------
+[14000/300000] Train loss: 0.33788, Valid loss: 2.82532, Elapsed_time: 4173.85695
+Current_accuracy : 68.385, Current_norm_ED  : 0.88
+Best_accuracy    : 68.385, Best_norm_ED     : 0.88
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+mrt                       | mrt                       | 0.8513	True
+hardwick                  | hardwick                  | 0.1094	True
+clemenceau                | clemenceau                | 0.3699	True
+wheeler                   | wheeler                   | 0.7029	True
+charlie                   | charlie                   | 0.5690	True
+--------------------------------------------------------------------------------
+[16000/300000] Train loss: 0.31943, Valid loss: 3.05872, Elapsed_time: 4770.42489
+Current_accuracy : 68.443, Current_norm_ED  : 0.87
+Best_accuracy    : 68.443, Best_norm_ED     : 0.88
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+patch                     | patch                     | 0.7777	True
+city                      | city                      | 0.1913	True
+gull                      | gull                      | 0.8751	True
+action                    | action                    | 0.2607	True
+godiva                    | godiva                    | 0.0594	True
+--------------------------------------------------------------------------------
+[18000/300000] Train loss: 0.31029, Valid loss: 2.84900, Elapsed_time: 5367.02160
+Current_accuracy : 69.106, Current_norm_ED  : 0.88
+Best_accuracy    : 69.106, Best_norm_ED     : 0.88
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nfl                       | nfi                       | 0.1790	False
+payne                     | payne                     | 0.3819	True
+distribution              | distribution              | 0.1025	True
+ristorante                | risterante                | 0.0064	False
+u                         | i                         | 0.8348	False
+--------------------------------------------------------------------------------
+[20000/300000] Train loss: 0.29623, Valid loss: 2.54510, Elapsed_time: 5963.17826
+Current_accuracy : 36.960, Current_norm_ED  : 0.79
+Best_accuracy    : 69.106, Best_norm_ED     : 0.88
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wheelchair                | wheellaarr                | 0.0031	False
+action                    | acction                   | 0.0032	False
+pak                       | ran                       | 0.1059	False
+nummer                    | nummer                    | 0.4352	True
+cafe                      | caff                      | 0.0432	False
+--------------------------------------------------------------------------------
+[22000/300000] Train loss: 0.28569, Valid loss: 2.87574, Elapsed_time: 6559.66561
+Current_accuracy : 70.738, Current_norm_ED  : 0.89
+Best_accuracy    : 70.738, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+campus                    | camputs                   | 0.2592	False
+gwaliab                   | gwaldd                    | 0.1424	False
+luminox                   | luminex                   | 0.5128	False
+afa                       | afa                       | 0.6906	True
+dong                      | dong                      | 0.3678	True
+--------------------------------------------------------------------------------
+[24000/300000] Train loss: 0.27650, Valid loss: 2.87968, Elapsed_time: 7157.77735
+Current_accuracy : 72.048, Current_norm_ED  : 0.89
+Best_accuracy    : 72.048, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+builder                   | builder                   | 0.1108	True
+24                        | 2f                        | 0.8049	False
+market                    | market                    | 0.1247	True
+tap                       | tap                       | 0.8344	True
+aigonlotus                | argoniriit                | 0.0012	False
+--------------------------------------------------------------------------------
+[26000/300000] Train loss: 0.27250, Valid loss: 2.94422, Elapsed_time: 7755.90840
+Current_accuracy : 71.708, Current_norm_ED  : 0.89
+Best_accuracy    : 72.048, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+advertisements            | adveriisements            | 0.0138	False
+60                        | 60                        | 0.8512	True
+this                      | this                      | 0.9813	True
+service                   | service                   | 0.8964	True
+lodge                     | ledge                     | 0.2909	False
+--------------------------------------------------------------------------------
+[28000/300000] Train loss: 0.26062, Valid loss: 3.05057, Elapsed_time: 8352.89820
+Current_accuracy : 72.371, Current_norm_ED  : 0.89
+Best_accuracy    : 72.371, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+zou                       | you                       | 0.3922	False
+bank                      | bannk                     | 0.0694	False
+gift                      | gift                      | 0.2166	True
+believe                   | i                         | 0.4512	False
+eagle                     | eagle                     | 0.9744	True
+--------------------------------------------------------------------------------
+[30000/300000] Train loss: 0.25531, Valid loss: 2.77994, Elapsed_time: 8951.74264
+Current_accuracy : 73.050, Current_norm_ED  : 0.89
+Best_accuracy    : 73.050, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+cool                      | cool                      | 0.2408	True
+62                        | 62                        | 0.9563	True
+mission                   | mission                   | 0.4046	True
+station                   | station                   | 0.4823	True
+court                     | court                     | 0.9723	True
+--------------------------------------------------------------------------------
+[32000/300000] Train loss: 0.24613, Valid loss: 2.92695, Elapsed_time: 9550.28532
+Current_accuracy : 73.299, Current_norm_ED  : 0.89
+Best_accuracy    : 73.299, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+snap                      | snap                      | 0.9376	True
+are                       | are                       | 0.4106	True
+2002                      | 2002                      | 0.5809	True
+peperoni                  | peperoni                  | 0.1771	True
+cafe                      | sare                      | 0.4474	False
+--------------------------------------------------------------------------------
+[34000/300000] Train loss: 0.24566, Valid loss: 2.87716, Elapsed_time: 10148.58766
+Current_accuracy : 72.976, Current_norm_ED  : 0.89
+Best_accuracy    : 73.299, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+management                | management                | 0.3860	True
+restaurant                | retuura                   | 0.0052	False
+hotel                     | hotel                     | 0.2282	True
+new                       | new                       | 0.6909	True
+der                       | der                       | 0.9597	True
+--------------------------------------------------------------------------------
+[36000/300000] Train loss: 0.23971, Valid loss: 2.99830, Elapsed_time: 10746.85583
+Current_accuracy : 74.277, Current_norm_ED  : 0.90
+Best_accuracy    : 74.277, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+21st                      | 21st                      | 0.3042	True
+burbank                   | burbaty                   | 0.2291	False
+buffet                    | buffet                    | 0.2690	True
+prototype                 | prototype                 | 0.3012	True
+concert                   | concert                   | 0.1334	True
+--------------------------------------------------------------------------------
+[38000/300000] Train loss: 0.23552, Valid loss: 2.84174, Elapsed_time: 11344.75433
+Current_accuracy : 73.506, Current_norm_ED  : 0.89
+Best_accuracy    : 74.277, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+en                        | en                        | 0.8986	True
+dining                    | dining                    | 0.2604	True
+blue                      | blue                      | 0.2794	True
+new                       | new                       | 0.1586	True
+dean                      | dean                      | 0.8667	True
+--------------------------------------------------------------------------------
+[40000/300000] Train loss: 0.23030, Valid loss: 3.06878, Elapsed_time: 11942.96523
+Current_accuracy : 74.376, Current_norm_ED  : 0.90
+Best_accuracy    : 74.376, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+maxmara                   | maxarra                   | 0.1559	False
+castle                    | castle                    | 0.8983	True
+mandarin                  | mandarin                  | 0.1217	True
+crocs                     | crocs                     | 0.6771	True
+cavenagh                  | cavenagh                  | 0.6454	True
+--------------------------------------------------------------------------------
+[42000/300000] Train loss: 0.22682, Valid loss: 3.07816, Elapsed_time: 12540.41626
+Current_accuracy : 73.606, Current_norm_ED  : 0.89
+Best_accuracy    : 74.376, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+break                     | break                     | 0.9438	True
+options                   | options                   | 0.3075	True
+thursday                  | thursday                  | 0.4103	True
+10                        | s10                       | 0.6541	False
+no                        | no                        | 0.4491	True
+--------------------------------------------------------------------------------
+[44000/300000] Train loss: 0.22443, Valid loss: 2.95250, Elapsed_time: 13139.25945
+Current_accuracy : 75.131, Current_norm_ED  : 0.90
+Best_accuracy    : 75.131, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+eat                       | fo                        | 0.0735	False
+for                       | for                       | 0.9291	True
+pharmacy                  | pharmac                   | 0.0108	False
+bangkokjam                | bangrokiam                | 0.0119	False
+a                         | a                         | 0.8412	True
+--------------------------------------------------------------------------------
+[46000/300000] Train loss: 0.22091, Valid loss: 2.94634, Elapsed_time: 13736.15774
+Current_accuracy : 74.741, Current_norm_ED  : 0.90
+Best_accuracy    : 75.131, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+shopping                  | shopping                  | 0.1503	True
+linen                     | linen                     | 0.9853	True
+40                        | 40                        | 0.8032	True
+of                        | of                        | 0.9567	True
+washington                | washington                | 0.2366	True
+--------------------------------------------------------------------------------
+[48000/300000] Train loss: 0.21797, Valid loss: 2.96879, Elapsed_time: 14333.55358
+Current_accuracy : 75.023, Current_norm_ED  : 0.90
+Best_accuracy    : 75.131, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+3123410900                | 3i23410900                | 0.2464	False
+uni                       | uni                       | 0.6437	True
+no1                       | no1                       | 0.9317	True
+ocean                     | ocean                     | 0.8583	True
+timms                     | turmss                    | 0.0020	False
+--------------------------------------------------------------------------------
+[50000/300000] Train loss: 0.21428, Valid loss: 2.92907, Elapsed_time: 14931.58633
+Current_accuracy : 74.360, Current_norm_ED  : 0.90
+Best_accuracy    : 75.131, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+manchester                | manchester                | 0.4568	True
+roslyn                    | roslyn                    | 0.6419	True
+airshow                   | airshow                   | 0.7467	True
+india                     | india                     | 0.8488	True
+and                       | and                       | 0.9668	True
+--------------------------------------------------------------------------------
+[52000/300000] Train loss: 0.21137, Valid loss: 2.91427, Elapsed_time: 15529.01471
+Current_accuracy : 74.625, Current_norm_ED  : 0.90
+Best_accuracy    : 75.131, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ladies                    | lodies                    | 0.1852	False
+burger                    | burger                    | 0.5587	True
+express                   | exxpess                   | 0.0024	False
+mill                      | mill                      | 0.7448	True
+exposes                   | exposes                   | 0.9666	True
+--------------------------------------------------------------------------------
+[54000/300000] Train loss: 0.20876, Valid loss: 3.08841, Elapsed_time: 16126.53771
+Current_accuracy : 76.398, Current_norm_ED  : 0.90
+Best_accuracy    : 76.398, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+hoon                      | hoon                      | 0.7183	True
+luck                      | luck                      | 0.9346	True
+ten                       | ten                       | 0.2809	True
+cathay                    | cathay                    | 0.6097	True
+bus                       | bus                       | 0.9620	True
+--------------------------------------------------------------------------------
+[56000/300000] Train loss: 0.20701, Valid loss: 3.10970, Elapsed_time: 16726.09558
+Current_accuracy : 75.346, Current_norm_ED  : 0.90
+Best_accuracy    : 76.398, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jalan                     | jalan                     | 0.8941	True
+manga                     | manga                     | 0.8509	True
+here                      | here                      | 0.5670	True
+shops                     | shops                     | 0.4974	True
+chocoolate                | 3                         | 0.4051	False
+--------------------------------------------------------------------------------
+[58000/300000] Train loss: 0.20326, Valid loss: 2.91689, Elapsed_time: 17323.92408
+Current_accuracy : 75.968, Current_norm_ED  : 0.90
+Best_accuracy    : 76.398, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+centre                    | centre                    | 0.7962	True
+now                       | now                       | 0.3396	True
+palace                    | palace                    | 0.5450	True
+centre                    | centre                    | 0.8140	True
+universal                 | universal                 | 0.7540	True
+--------------------------------------------------------------------------------
+[60000/300000] Train loss: 0.20127, Valid loss: 3.07042, Elapsed_time: 17919.38775
+Current_accuracy : 75.495, Current_norm_ED  : 0.90
+Best_accuracy    : 76.398, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+class                     | class                     | 0.7647	True
+ten                       | ten                       | 0.6125	True
+not                       | won                       | 0.9236	False
+carlton                   | camgton                   | 0.0008	False
+zula                      | aula                      | 0.0803	False
+--------------------------------------------------------------------------------
+[62000/300000] Train loss: 0.19808, Valid loss: 3.03319, Elapsed_time: 18516.77252
+Current_accuracy : 74.352, Current_norm_ED  : 0.90
+Best_accuracy    : 76.398, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+company                   | coreig                    | 0.0001	False
+avenue                    | aenue                     | 0.0260	False
+not                       | not                       | 0.3043	True
+pizza                     | pizza                     | 0.3431	True
+the                       | the                       | 0.9595	True
+--------------------------------------------------------------------------------
+[64000/300000] Train loss: 0.19854, Valid loss: 3.02668, Elapsed_time: 19112.93402
+Current_accuracy : 76.523, Current_norm_ED  : 0.90
+Best_accuracy    : 76.523, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+exit                      | exit                      | 0.2109	True
+thai                      | thai                      | 0.6799	True
+sunganaka                 | conganay                  | 0.0246	False
+exit                      | exit                      | 0.1473	True
+funny                     | funny                     | 0.9682	True
+--------------------------------------------------------------------------------
+[66000/300000] Train loss: 0.19323, Valid loss: 2.96389, Elapsed_time: 19709.38741
+Current_accuracy : 76.324, Current_norm_ED  : 0.90
+Best_accuracy    : 76.523, Best_norm_ED     : 0.90
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+exit                      | exit                      | 0.5115	True
+inn                       | inn                       | 0.9904	True
+exclusive                 | exclusive                 | 0.5509	True
+pro                       | i                         | 0.2704	False
+house                     | house                     | 0.8979	True
+--------------------------------------------------------------------------------
+[68000/300000] Train loss: 0.19272, Valid loss: 2.79638, Elapsed_time: 20305.45979
+Current_accuracy : 76.780, Current_norm_ED  : 0.91
+Best_accuracy    : 76.780, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+accounts                  | accounts                  | 0.8913	True
+get                       | get                       | 0.9984	True
+1                         | 1                         | 0.7885	True
+bank                      | bank                      | 0.9904	True
+mandarin                  | mandarin                  | 0.4649	True
+--------------------------------------------------------------------------------
+[70000/300000] Train loss: 0.19097, Valid loss: 2.92631, Elapsed_time: 20901.53641
+Current_accuracy : 75.686, Current_norm_ED  : 0.90
+Best_accuracy    : 76.780, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+rogers                    | rogers                    | 0.6620	True
+hwa                       | hwaa                      | 0.0313	False
+royal                     | royal                     | 0.5464	True
+be                        | be                        | 0.7879	True
+psychology                | psychology                | 0.4031	True
+--------------------------------------------------------------------------------
+[72000/300000] Train loss: 0.18953, Valid loss: 3.13083, Elapsed_time: 21497.08972
+Current_accuracy : 76.034, Current_norm_ED  : 0.90
+Best_accuracy    : 76.780, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+30                        | 30                        | 0.8839	True
+cottage                   | cottagy                   | 0.0060	False
+shops                     | shops                     | 0.2477	True
+les                       | 1                         | 0.2752	False
+body                      | body                      | 0.7865	True
+--------------------------------------------------------------------------------
+[74000/300000] Train loss: 0.18899, Valid loss: 2.96046, Elapsed_time: 22093.31451
+Current_accuracy : 76.514, Current_norm_ED  : 0.91
+Best_accuracy    : 76.780, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jimmy                     | timmy                     | 0.8724	False
+and                       | and                       | 0.9992	True
+kitchen                   | kitchan                   | 0.1500	False
+grapes                    | grapes                    | 0.3920	True
+your                      | your                      | 0.9500	True
+--------------------------------------------------------------------------------
+[76000/300000] Train loss: 0.18836, Valid loss: 2.93976, Elapsed_time: 22689.72643
+Current_accuracy : 75.976, Current_norm_ED  : 0.91
+Best_accuracy    : 76.780, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thakaar                   | thakkar                   | 0.2463	False
+street                    | sineet                    | 0.0016	False
+sale                      | sale                      | 0.0305	True
+doubles                   | doubles                   | 0.8324	True
+copy                      | copy                      | 0.8592	True
+--------------------------------------------------------------------------------
+[78000/300000] Train loss: 0.18431, Valid loss: 2.99668, Elapsed_time: 23286.28436
+Current_accuracy : 76.912, Current_norm_ED  : 0.91
+Best_accuracy    : 76.912, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+dragster                  | dragster                  | 0.7696	True
+premier                   | premier                   | 0.9327	True
+exit                      | exit                      | 0.4960	True
+dead                      | deed                      | 0.1073	False
+grab                      | grab                      | 0.4824	True
+--------------------------------------------------------------------------------
+[80000/300000] Train loss: 0.18460, Valid loss: 3.10834, Elapsed_time: 23884.15040
+Current_accuracy : 76.506, Current_norm_ED  : 0.91
+Best_accuracy    : 76.912, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+anonymous                 | anonymous                 | 0.0179	True
+parking                   | parking                   | 0.1390	True
+town                      | town                      | 0.2298	True
+crush                     | crush                     | 0.3509	True
+here                      | here                      | 0.4675	True
+--------------------------------------------------------------------------------
+[82000/300000] Train loss: 0.18191, Valid loss: 3.03870, Elapsed_time: 24481.85208
+Current_accuracy : 75.073, Current_norm_ED  : 0.90
+Best_accuracy    : 76.912, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+view                      | vies                      | 0.0246	False
+tap                       | tap                       | 0.8688	True
+national                  | national                  | 0.3893	True
+lowns                     | lowns                     | 0.7789	True
+sale                      | sale                      | 0.9827	True
+--------------------------------------------------------------------------------
+[84000/300000] Train loss: 0.18036, Valid loss: 3.10358, Elapsed_time: 25080.02474
+Current_accuracy : 76.755, Current_norm_ED  : 0.91
+Best_accuracy    : 76.912, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+pping                     | pping                     | 0.1300	True
+dr                        | dr                        | 0.7250	True
+fabrics                   | pabrics                   | 0.0004	False
+college                   | college                   | 0.5782	True
+pleatation                | pleatation                | 0.4115	True
+--------------------------------------------------------------------------------
+[86000/300000] Train loss: 0.17933, Valid loss: 2.97716, Elapsed_time: 25677.53599
+Current_accuracy : 77.136, Current_norm_ED  : 0.91
+Best_accuracy    : 77.136, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+vodka                     | vodka                     | 0.6789	True
+hose                      | hose                      | 0.1629	True
+tata                      | tata                      | 0.6081	True
+and                       | and                       | 0.3136	True
+please                    | please                    | 0.5147	True
+--------------------------------------------------------------------------------
+[88000/300000] Train loss: 0.17846, Valid loss: 3.12762, Elapsed_time: 26275.74982
+Current_accuracy : 76.846, Current_norm_ED  : 0.91
+Best_accuracy    : 77.136, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jones                     | jones                     | 0.9049	True
+hosereeh                  | hosereel                  | 0.0131	False
+giordano                  | chlgannn                  | 0.0000	False
+2571                      | 2571                      | 0.2109	True
+cuisine                   | cuisine                   | 0.8253	True
+--------------------------------------------------------------------------------
+[90000/300000] Train loss: 0.17627, Valid loss: 3.04033, Elapsed_time: 26873.46984
+Current_accuracy : 76.763, Current_norm_ED  : 0.91
+Best_accuracy    : 77.136, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+the                       | the                       | 0.9631	True
+faches                    | faches                    | 0.7886	True
+5                         | 5                         | 0.8095	True
+dry                       | dry                       | 0.9920	True
+pleatation                | pleatation                | 0.0804	True
+--------------------------------------------------------------------------------
+[92000/300000] Train loss: 0.17700, Valid loss: 3.13575, Elapsed_time: 27470.29079
+Current_accuracy : 77.492, Current_norm_ED  : 0.91
+Best_accuracy    : 77.492, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+big                       | big                       | 0.9989	True
+india                     | india                     | 0.8011	True
+aliens                    | allens                    | 0.3709	False
+sale                      | saly                      | 0.0741	False
+omega                     | omega                     | 0.5483	True
+--------------------------------------------------------------------------------
+[94000/300000] Train loss: 0.17363, Valid loss: 3.09068, Elapsed_time: 28070.27532
+Current_accuracy : 77.053, Current_norm_ED  : 0.91
+Best_accuracy    : 77.492, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+next                      | next                      | 0.9947	True
+mee                       | mee                       | 0.2664	True
+cafe                      | cafe                      | 0.1538	True
+best                      | best                      | 0.6827	True
+bus                       | bus                       | 0.9916	True
+--------------------------------------------------------------------------------
+[96000/300000] Train loss: 0.17190, Valid loss: 3.18162, Elapsed_time: 28667.46313
+Current_accuracy : 77.327, Current_norm_ED  : 0.91
+Best_accuracy    : 77.492, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+geldruckgabe              | geldruckgabe              | 0.2725	True
+you                       | you                       | 0.5309	True
+cataldos                  | cataldol                  | 0.3056	False
+prices                    | prices                    | 0.2388	True
+sbi                       | sai                       | 0.2226	False
+--------------------------------------------------------------------------------
+[98000/300000] Train loss: 0.16882, Valid loss: 3.13593, Elapsed_time: 29263.58369
+Current_accuracy : 77.020, Current_norm_ED  : 0.91
+Best_accuracy    : 77.492, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+aires                     | aires                     | 0.9997	True
+harry                     | harky                     | 0.0841	False
+jungle                    | jungle                    | 0.2717	True
+maynard                   | maynard                   | 0.7620	True
+e14                       | e14                       | 0.8789	True
+--------------------------------------------------------------------------------
+[100000/300000] Train loss: 0.16936, Valid loss: 3.01948, Elapsed_time: 29859.66895
+Current_accuracy : 77.650, Current_norm_ED  : 0.91
+Best_accuracy    : 77.650, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+office                    | pricce                    | 0.0057	False
+stay                      | sqq                       | 0.0543	False
+restaurant                | i                         | 0.4048	False
+625                       | 625                       | 0.9348	True
+rd                        | rd                        | 0.9861	True
+--------------------------------------------------------------------------------
+[102000/300000] Train loss: 0.16814, Valid loss: 2.91054, Elapsed_time: 30455.59375
+Current_accuracy : 77.103, Current_norm_ED  : 0.91
+Best_accuracy    : 77.650, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+lettering                 | lettering                 | 0.7619	True
+cartridges                | cartridges                | 0.5649	True
+goodwill                  | goodwill                  | 0.7773	True
+poss                      | aposs                     | 0.0092	False
+soup                      | swu                       | 0.0263	False
+--------------------------------------------------------------------------------
+[104000/300000] Train loss: 0.17071, Valid loss: 2.98695, Elapsed_time: 31051.86726
+Current_accuracy : 77.194, Current_norm_ED  : 0.91
+Best_accuracy    : 77.650, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+first                     | ferst                     | 0.4435	False
+cafe                      | cafe                      | 0.3821	True
+storage                   | storage                   | 0.7951	True
+granary                   | cranaaa                   | 0.0069	False
+perkins                   | perkins                   | 0.2455	True
+--------------------------------------------------------------------------------
+[106000/300000] Train loss: 0.16526, Valid loss: 3.21000, Elapsed_time: 31648.67233
+Current_accuracy : 77.517, Current_norm_ED  : 0.91
+Best_accuracy    : 77.650, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+pioneer                   | adseld                    | 0.0003	False
+white                     | white                     | 0.1010	True
+niro                      | niro                      | 0.8223	True
+sports                    | sports                    | 0.9856	True
+ion                       | ion                       | 0.2437	True
+--------------------------------------------------------------------------------
+[108000/300000] Train loss: 0.16699, Valid loss: 3.24590, Elapsed_time: 32246.96147
+Current_accuracy : 78.130, Current_norm_ED  : 0.91
+Best_accuracy    : 78.130, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+state                     | state                     | 0.4997	True
+dallas                    | dallas                    | 0.0189	True
+empire                    | empire                    | 0.0153	True
+dabbe                     | dabbe                     | 0.2405	True
+thunderball               | thunderbal                | 0.2702	False
+--------------------------------------------------------------------------------
+[110000/300000] Train loss: 0.16574, Valid loss: 3.18579, Elapsed_time: 32845.61860
+Current_accuracy : 77.360, Current_norm_ED  : 0.91
+Best_accuracy    : 78.130, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+hsbc                      | hsbc                      | 0.9435	True
+salads                    | salads                    | 0.3275	True
+kitchen                   | wolchen                   | 0.0017	False
+cleaners                  | cleaners                  | 0.1955	True
+life                      | life                      | 0.6107	True
+--------------------------------------------------------------------------------
+[112000/300000] Train loss: 0.16309, Valid loss: 3.04398, Elapsed_time: 33444.07156
+Current_accuracy : 77.153, Current_norm_ED  : 0.91
+Best_accuracy    : 78.130, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+work                      | i                         | 0.5463	False
+glen                      | glen                      | 0.2035	True
+loaned                    | loaned                    | 0.5712	True
+tamania                   | kemans                    | 0.0001	False
+minimum                   | minimum                   | 0.9866	True
+--------------------------------------------------------------------------------
+[114000/300000] Train loss: 0.16442, Valid loss: 3.17960, Elapsed_time: 34041.33097
+Current_accuracy : 76.672, Current_norm_ED  : 0.91
+Best_accuracy    : 78.130, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ger                       | aner                      | 0.0073	False
+seoulgarden               | seoulgarden               | 0.2383	True
+handy                     | handy                     | 0.8600	True
+home                      | home                      | 0.9828	True
+accounts                  | accounts                  | 0.8099	True
+--------------------------------------------------------------------------------
+[116000/300000] Train loss: 0.16216, Valid loss: 3.13986, Elapsed_time: 34639.07927
+Current_accuracy : 78.056, Current_norm_ED  : 0.91
+Best_accuracy    : 78.130, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+outdoor                   | outdoor                   | 0.4088	True
+2002                      | 2002                      | 0.9388	True
+sign                      | sign                      | 0.9871	True
+galleries                 | galleries                 | 0.4331	True
+show                      | show                      | 0.1187	True
+--------------------------------------------------------------------------------
+[118000/300000] Train loss: 0.16219, Valid loss: 3.20672, Elapsed_time: 35235.26183
+Current_accuracy : 78.172, Current_norm_ED  : 0.92
+Best_accuracy    : 78.172, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+address                   | address                   | 0.3928	True
+of                        | of                        | 0.5591	True
+castle                    | castle                    | 0.4118	True
+the                       | the                       | 0.1897	True
+cinema                    | cinema                    | 0.4445	True
+--------------------------------------------------------------------------------
+[120000/300000] Train loss: 0.16056, Valid loss: 3.10936, Elapsed_time: 35831.62358
+Current_accuracy : 76.962, Current_norm_ED  : 0.91
+Best_accuracy    : 78.172, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+chimney                   | cliimeey                  | 0.0048	False
+imported                  | imported                  | 0.4987	True
+club313                   | club313                   | 0.4438	True
+ready                     | ready                     | 0.1071	True
+essex                     | essex                     | 0.9800	True
+--------------------------------------------------------------------------------
+[122000/300000] Train loss: 0.15772, Valid loss: 3.18190, Elapsed_time: 36428.18884
+Current_accuracy : 78.172, Current_norm_ED  : 0.91
+Best_accuracy    : 78.172, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+campus                    | campus                    | 0.8677	True
+can                       | can                       | 0.7419	True
+first                     | first                     | 0.1158	True
+orchard                   | orchand                   | 0.3158	False
+india                     | india                     | 0.9814	True
+--------------------------------------------------------------------------------
+[124000/300000] Train loss: 0.15874, Valid loss: 3.13769, Elapsed_time: 37026.65560
+Current_accuracy : 78.197, Current_norm_ED  : 0.91
+Best_accuracy    : 78.197, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+pig                       | pig                       | 0.4674	True
+shopping                  | shoppiggi                 | 0.0072	False
+2002                      | 2002                      | 0.9002	True
+hyperion                  | i                         | 0.4870	False
+sale                      | sale                      | 0.4939	True
+--------------------------------------------------------------------------------
+[126000/300000] Train loss: 0.15795, Valid loss: 3.07271, Elapsed_time: 37624.40814
+Current_accuracy : 77.956, Current_norm_ED  : 0.91
+Best_accuracy    : 78.197, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+chain                     | chain                     | 0.9872	True
+premiere                  | premiere                  | 0.4308	True
+senseo                    | sensed                    | 0.7415	False
+memento                   | memento                   | 0.1024	True
+experience                | experience                | 0.0150	True
+--------------------------------------------------------------------------------
+[128000/300000] Train loss: 0.15809, Valid loss: 3.20677, Elapsed_time: 38222.72262
+Current_accuracy : 77.998, Current_norm_ED  : 0.91
+Best_accuracy    : 78.197, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+bras                      | bras                      | 0.9463	True
+kitchen                   | kitchen                   | 0.3763	True
+plant                     | plant                     | 0.5108	True
+ice                       | ice                       | 0.9555	True
+newcastle                 | newcastle                 | 0.3224	True
+--------------------------------------------------------------------------------
+[130000/300000] Train loss: 0.15608, Valid loss: 3.21695, Elapsed_time: 38820.86319
+Current_accuracy : 77.600, Current_norm_ED  : 0.91
+Best_accuracy    : 78.197, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+eat                       | far                       | 0.0434	False
+eagle                     | finke                     | 0.0127	False
+sushi                     | sushi                     | 0.0212	True
+natwest                   | natwest                   | 0.4850	True
+red                       | red                       | 0.5763	True
+--------------------------------------------------------------------------------
+[132000/300000] Train loss: 0.15534, Valid loss: 3.19141, Elapsed_time: 39418.95995
+Current_accuracy : 77.658, Current_norm_ED  : 0.91
+Best_accuracy    : 78.197, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+open                      | oren                      | 0.0387	False
+could                     | could                     | 0.7531	True
+supplies                  | supplies                  | 0.8114	True
+1600                      | 1600                      | 0.4911	True
+tea                       | tea                       | 0.9417	True
+--------------------------------------------------------------------------------
+[134000/300000] Train loss: 0.15631, Valid loss: 3.26502, Elapsed_time: 40016.37063
+Current_accuracy : 77.683, Current_norm_ED  : 0.91
+Best_accuracy    : 78.197, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+off                       | off                       | 0.1969	True
+users                     | users                     | 0.9858	True
+post                      | post                      | 0.2286	True
+courses                   | courses                   | 0.4934	True
+operation                 | operation                 | 0.9497	True
+--------------------------------------------------------------------------------
+[136000/300000] Train loss: 0.15619, Valid loss: 3.23449, Elapsed_time: 40615.04992
+Current_accuracy : 78.396, Current_norm_ED  : 0.91
+Best_accuracy    : 78.396, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+chips                     | chips                     | 0.9775	True
+first                     | first                     | 0.4606	True
+hospital                  | hospital                  | 0.4615	True
+sale                      | isle                      | 0.0290	False
+the                       | the                       | 0.2408	True
+--------------------------------------------------------------------------------
+[138000/300000] Train loss: 0.15429, Valid loss: 3.22205, Elapsed_time: 41214.45986
+Current_accuracy : 78.362, Current_norm_ED  : 0.92
+Best_accuracy    : 78.396, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+you                       | you                       | 0.9654	True
+ebizu                     | ebizu                     | 0.1016	True
+express                   | express                   | 0.6374	True
+slush                     | slush                     | 0.3588	True
+conditioner               | conditioner               | 0.8580	True
+--------------------------------------------------------------------------------
+[140000/300000] Train loss: 0.15264, Valid loss: 3.08993, Elapsed_time: 41813.21684
+Current_accuracy : 78.122, Current_norm_ED  : 0.92
+Best_accuracy    : 78.396, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sale                      | sale                      | 0.6228	True
+main                      | main                      | 0.0869	True
+tara                      | tara                      | 0.6453	True
+shop                      | shop                      | 0.9115	True
+50th                      | 50th                      | 0.4172	True
+--------------------------------------------------------------------------------
+[142000/300000] Train loss: 0.15562, Valid loss: 3.22316, Elapsed_time: 42411.77271
+Current_accuracy : 77.525, Current_norm_ED  : 0.91
+Best_accuracy    : 78.396, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+village                   | viluige                   | 0.0223	False
+valiant                   | valiant                   | 0.2344	True
+taqueria                  | taqueraa                  | 0.0203	False
+grand                     | grand                     | 0.7846	True
+opera                     | opera                     | 0.9599	True
+--------------------------------------------------------------------------------
+[144000/300000] Train loss: 0.15305, Valid loss: 3.16154, Elapsed_time: 43009.48364
+Current_accuracy : 78.694, Current_norm_ED  : 0.91
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sports                    | sports                    | 0.9825	True
+superkings                | superkings                | 0.0125	True
+station                   | station                   | 0.3961	True
+head                      | head                      | 0.2866	True
+sal                       | sal                       | 0.4025	True
+--------------------------------------------------------------------------------
+[146000/300000] Train loss: 0.15194, Valid loss: 3.22213, Elapsed_time: 43607.63367
+Current_accuracy : 78.603, Current_norm_ED  : 0.91
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+die                       | diez                      | 0.7699	False
+reel                      | reel                      | 0.4439	True
+freewaybillboard          | freewaybillboard          | 0.0043	True
+pay                       | spay                      | 0.0700	False
+information               | information               | 0.8345	True
+--------------------------------------------------------------------------------
+[148000/300000] Train loss: 0.15090, Valid loss: 3.13775, Elapsed_time: 44205.69018
+Current_accuracy : 77.443, Current_norm_ED  : 0.91
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+prices                    | prices                    | 0.4760	True
+tv                        | tvp                       | 0.7380	False
+state                     | state                     | 0.6225	True
+capote                    | capote                    | 0.4121	True
+shoe                      | shoe                      | 0.5932	True
+--------------------------------------------------------------------------------
+[150000/300000] Train loss: 0.15443, Valid loss: 2.97261, Elapsed_time: 44802.52264
+Current_accuracy : 77.136, Current_norm_ED  : 0.91
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+way                       | way                       | 0.9583	True
+al                        | al                        | 0.5399	True
+green                     | fgreent                   | 0.0053	False
+chocolate                 | chocolate                 | 0.5863	True
+com                       | com                       | 0.2722	True
+--------------------------------------------------------------------------------
+[152000/300000] Train loss: 0.14963, Valid loss: 3.21928, Elapsed_time: 45399.00190
+Current_accuracy : 78.454, Current_norm_ED  : 0.92
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+please                    | please                    | 0.2992	True
+77                        | 77                        | 0.5735	True
+ann                       | ann                       | 0.4946	True
+public                    | rubul                     | 0.0041	False
+potworow                  | potworow                  | 0.6826	True
+--------------------------------------------------------------------------------
+[154000/300000] Train loss: 0.15103, Valid loss: 3.21943, Elapsed_time: 45996.65096
+Current_accuracy : 78.570, Current_norm_ED  : 0.92
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+best                      | best                      | 0.8450	True
+craft                     | craft                     | 0.0540	True
+mark                      | mark                      | 0.3975	True
+kitchen                   | watchan                   | 0.0004	False
+thday                     | thday                     | 0.9247	True
+--------------------------------------------------------------------------------
+[156000/300000] Train loss: 0.15073, Valid loss: 2.91655, Elapsed_time: 46595.13739
+Current_accuracy : 78.420, Current_norm_ED  : 0.92
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+flash                     | flash                     | 0.8910	True
+restaurant                | restaurant                | 0.4438	True
+sub                       | sub                       | 0.4778	True
+coming                    | coming                    | 0.3548	True
+monthly                   | mornyy                    | 0.0189	False
+--------------------------------------------------------------------------------
+[158000/300000] Train loss: 0.15018, Valid loss: 3.07812, Elapsed_time: 47193.12296
+Current_accuracy : 77.758, Current_norm_ED  : 0.91
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wholesale                 | wholesale                 | 0.3939	True
+ing                       | ing                       | 0.8695	True
+greenstead                | creenstead                | 0.4799	False
+ten                       | ten                       | 0.4407	True
+pastries                  | pastries                  | 0.7917	True
+--------------------------------------------------------------------------------
+[160000/300000] Train loss: 0.14800, Valid loss: 2.95362, Elapsed_time: 47790.41631
+Current_accuracy : 78.023, Current_norm_ED  : 0.91
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+house                     | house                     | 0.8921	True
+city                      | paaliy                    | 0.0005	False
+traffic                   | traffic                   | 0.2718	True
+pain                      | pain                      | 0.9985	True
+ing                       | ing                       | 0.9224	True
+--------------------------------------------------------------------------------
+[162000/300000] Train loss: 0.14968, Valid loss: 3.09960, Elapsed_time: 48387.09217
+Current_accuracy : 78.056, Current_norm_ED  : 0.91
+Best_accuracy    : 78.694, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+skii                      | skii                      | 0.6358	True
+national                  | national                  | 0.0570	True
+in                        | in                        | 0.6350	True
+gum                       | gum                       | 0.9086	True
+bangkok                   | bangkok                   | 0.5446	True
+--------------------------------------------------------------------------------
+[164000/300000] Train loss: 0.14862, Valid loss: 3.23546, Elapsed_time: 48984.85525
+Current_accuracy : 79.191, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+godiva                    | godiva                    | 0.2725	True
+bay                       | bay                       | 0.9932	True
+atm                       | atm                       | 0.8787	True
+vehicles                  | vehicles                  | 0.8306	True
+please                    | please                    | 0.5089	True
+--------------------------------------------------------------------------------
+[166000/300000] Train loss: 0.14952, Valid loss: 3.23325, Elapsed_time: 49582.98637
+Current_accuracy : 78.818, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+house                     | house                     | 0.9267	True
+shop                      | sio                       | 0.0060	False
+keepers                   | keepers                   | 0.0175	True
+the                       | the                       | 0.9992	True
+office                    | office                    | 0.2326	True
+--------------------------------------------------------------------------------
+[168000/300000] Train loss: 0.14794, Valid loss: 3.10067, Elapsed_time: 50180.51585
+Current_accuracy : 78.114, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+garage                    | carace                    | 0.0149	False
+avenue                    | avenue                    | 0.9738	True
+your                      | your                      | 0.9098	True
+essex                     | essex                     | 0.9924	True
+temt                      | tant                      | 0.0042	False
+--------------------------------------------------------------------------------
+[170000/300000] Train loss: 0.14765, Valid loss: 3.04236, Elapsed_time: 50778.31062
+Current_accuracy : 79.075, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+underground               | underground               | 0.5174	True
+break                     | break                     | 0.2736	True
+bird                      | bird                      | 0.9999	True
+the                       | the                       | 0.9536	True
+town                      | town                      | 0.9879	True
+--------------------------------------------------------------------------------
+[172000/300000] Train loss: 0.14677, Valid loss: 3.17336, Elapsed_time: 51375.83447
+Current_accuracy : 78.420, Current_norm_ED  : 0.91
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+beer                      | beer                      | 0.4624	True
+convention                | convention                | 0.2689	True
+welcome                   | welcome                   | 0.7754	True
+tm                        | tm                        | 0.3003	True
+flats                     | flats                     | 0.8057	True
+--------------------------------------------------------------------------------
+[174000/300000] Train loss: 0.14386, Valid loss: 3.27563, Elapsed_time: 51973.94356
+Current_accuracy : 78.213, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+directory                 | directory                 | 0.6808	True
+first                     | first                     | 0.6893	True
+meet                      | meet                      | 0.9986	True
+charlton                  | charltow                  | 0.5547	False
+comfort                   | comfort                   | 0.9411	True
+--------------------------------------------------------------------------------
+[176000/300000] Train loss: 0.14442, Valid loss: 3.21635, Elapsed_time: 52570.43378
+Current_accuracy : 77.840, Current_norm_ED  : 0.91
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+money                     | money                     | 0.9960	True
+central                   | central                   | 0.0188	True
+gifts                     | gifts                     | 0.5899	True
+quiznos                   | quiznos                   | 0.8101	True
+604                       | 604                       | 0.9531	True
+--------------------------------------------------------------------------------
+[178000/300000] Train loss: 0.14388, Valid loss: 3.37217, Elapsed_time: 53167.29814
+Current_accuracy : 78.669, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sanyo                     | sariyo                    | 0.0037	False
+topshop                   | topshop                   | 0.5000	True
+you                       | you                       | 0.9493	True
+centre                    | centre                    | 0.5603	True
+swarovski                 | swarowski                 | 0.1923	False
+--------------------------------------------------------------------------------
+[180000/300000] Train loss: 0.14436, Valid loss: 3.13644, Elapsed_time: 53765.15989
+Current_accuracy : 78.437, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+oldtown                   | oldtow                    | 0.0166	False
+malt                      | malt                      | 0.2656	True
+flash                     | flash                     | 0.8971	True
+cineple                   | icineplex                 | 0.0071	False
+0115                      | wor1s                     | 0.0030	False
+--------------------------------------------------------------------------------
+[182000/300000] Train loss: 0.14427, Valid loss: 3.08278, Elapsed_time: 54363.13491
+Current_accuracy : 79.017, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+services                  | services                  | 0.7683	True
+online                    | online                    | 0.0295	True
+cte                       | cte                       | 0.4512	True
+deposit                   | deposit                   | 0.5370	True
+accessorize               | accessorize               | 0.5064	True
+--------------------------------------------------------------------------------
+[184000/300000] Train loss: 0.14230, Valid loss: 3.16546, Elapsed_time: 54961.05500
+Current_accuracy : 78.238, Current_norm_ED  : 0.92
+Best_accuracy    : 79.191, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+friday                    | friday                    | 0.5053	True
+julie                     | julie                     | 0.0396	True
+court                     | coun                      | 0.2822	False
+divide                    | divide                    | 0.0973	True
+bank                      | bank                      | 0.5513	True
+--------------------------------------------------------------------------------
+[186000/300000] Train loss: 0.14131, Valid loss: 3.35523, Elapsed_time: 55560.75788
+Current_accuracy : 79.829, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jfc                       | jfc                       | 0.8189	True
+aed                       | aed                       | 0.9795	True
+tape                      | tape                      | 0.1503	True
+jarrett                   | sarrett                   | 0.3874	False
+accountancy               | accountancy               | 0.8459	True
+--------------------------------------------------------------------------------
+[188000/300000] Train loss: 0.13795, Valid loss: 3.17223, Elapsed_time: 56158.55262
+Current_accuracy : 79.067, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+standort                  | standort                  | 0.6911	True
+entry                     | entry                     | 0.4513	True
+divorce                   | divorce                   | 0.2888	True
+house                     | house                     | 0.6100	True
+ax                        | ax                        | 0.9434	True
+--------------------------------------------------------------------------------
+[190000/300000] Train loss: 0.13730, Valid loss: 3.40054, Elapsed_time: 56755.01045
+Current_accuracy : 78.595, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+for                       | for                       | 0.9828	True
+crest                     | crest                     | 0.3208	True
+for                       | for                       | 0.9891	True
+currency                  | currency                  | 0.2554	True
+modified                  | modited                   | 0.0996	False
+--------------------------------------------------------------------------------
+[192000/300000] Train loss: 0.13817, Valid loss: 3.09345, Elapsed_time: 57352.08184
+Current_accuracy : 79.233, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+mosher                    | mosher                    | 0.0413	True
+wealth                    | wealth                    | 0.4166	True
+now                       | now                       | 0.4376	True
+fox                       | fok                       | 0.2676	False
+off                       | off                       | 0.3980	True
+--------------------------------------------------------------------------------
+[194000/300000] Train loss: 0.13904, Valid loss: 3.16928, Elapsed_time: 57949.41604
+Current_accuracy : 79.083, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+flavours                  | flavours                  | 0.5907	True
+exit                      | gxit                      | 0.0219	False
+towers                    | towers                    | 0.6792	True
+ladies                    | ladies                    | 0.4135	True
+the                       | the                       | 0.0099	True
+--------------------------------------------------------------------------------
+[196000/300000] Train loss: 0.13786, Valid loss: 3.23030, Elapsed_time: 58547.09739
+Current_accuracy : 79.373, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+available                 | available                 | 0.7920	True
+walk                      | walk                      | 0.2867	True
+arshavin                  | frshavi                   | 0.0045	False
+be                        | be                        | 0.9828	True
+tabu                      | tib                       | 0.0769	False
+--------------------------------------------------------------------------------
+[198000/300000] Train loss: 0.13766, Valid loss: 3.21256, Elapsed_time: 59145.49864
+Current_accuracy : 79.017, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+the                       | the                       | 0.6704	True
+fire                      | fire                      | 0.9942	True
+gallery                   | gallery                   | 0.7898	True
+better                    | better                    | 0.1036	True
+disneyland                | disneyland                | 0.5237	True
+--------------------------------------------------------------------------------
+[200000/300000] Train loss: 0.13645, Valid loss: 3.11868, Elapsed_time: 59743.65982
+Current_accuracy : 79.572, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+irish                     | irish                     | 0.3906	True
+samsung                   | sammunng                  | 0.0031	False
+now                       | now                       | 0.4656	True
+park                      | park                      | 0.9875	True
+toad                      | toad                      | 0.2165	True
+--------------------------------------------------------------------------------
+[202000/300000] Train loss: 0.13637, Valid loss: 3.22881, Elapsed_time: 60340.59373
+Current_accuracy : 79.680, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jeanswear                 | ioanswar                  | 0.0151	False
+spoon                     | spoon                     | 0.5131	True
+8888                      | 58888                     | 0.2657	False
+challenge                 | challenge                 | 0.6823	True
+rld                       | the                       | 0.0093	False
+--------------------------------------------------------------------------------
+[204000/300000] Train loss: 0.13758, Valid loss: 3.63128, Elapsed_time: 60937.81756
+Current_accuracy : 37.176, Current_norm_ED  : 0.85
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+pacific                   | pacifiic                  | 0.1621	False
+grand                     | grandd                    | 0.6495	False
+robinso                   | robinssoi                 | 0.0147	False
+fountain                  | founttain                 | 0.3953	False
+emergency                 | emerggency                | 0.4862	False
+--------------------------------------------------------------------------------
+[206000/300000] Train loss: 0.13585, Valid loss: 3.04008, Elapsed_time: 61535.62671
+Current_accuracy : 79.456, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+site                      | site                      | 0.7235	True
+library                   | hae                       | 0.0036	False
+else                      | else                      | 0.7256	True
+escape                    | escapp                    | 0.0084	False
+sale                      | sale                      | 0.7601	True
+--------------------------------------------------------------------------------
+[208000/300000] Train loss: 0.13604, Valid loss: 3.11200, Elapsed_time: 62132.79837
+Current_accuracy : 79.092, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+accommodation             | accommodation             | 0.9814	True
+a                         | a                         | 0.7647	True
+heuer                     | wele                      | 0.0049	False
+havelock                  | havelock                  | 0.8916	True
+sushi                     | sushi                     | 0.5445	True
+--------------------------------------------------------------------------------
+[210000/300000] Train loss: 0.13541, Valid loss: 3.22392, Elapsed_time: 62729.99577
+Current_accuracy : 78.031, Current_norm_ED  : 0.91
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+quiznos                   | quiznos                   | 0.3469	True
+fun                       | fun                       | 0.9304	True
+a                         | a                         | 0.4548	True
+john                      | john                      | 0.4834	True
+pening                    | pening                    | 0.8255	True
+--------------------------------------------------------------------------------
+[212000/300000] Train loss: 0.13796, Valid loss: 3.05081, Elapsed_time: 63327.52330
+Current_accuracy : 78.760, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+swan                      | swan                      | 0.1294	True
+junk                      | junk                      | 0.8094	True
+central                   | gentral                   | 0.2709	False
+etam                      | etam                      | 0.9661	True
+70                        | for                       | 0.0424	False
+--------------------------------------------------------------------------------
+[214000/300000] Train loss: 0.13470, Valid loss: 3.00571, Elapsed_time: 63926.26134
+Current_accuracy : 78.694, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+committee                 | committee                 | 0.9747	True
+shops                     | shops                     | 0.6181	True
+99                        | d9                        | 0.2728	False
+0800                      | 0800                      | 0.8774	True
+sale                      | soae                      | 0.0025	False
+--------------------------------------------------------------------------------
+[216000/300000] Train loss: 0.13472, Valid loss: 3.26164, Elapsed_time: 64524.88026
+Current_accuracy : 78.909, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+mill                      | mill                      | 0.9487	True
+timken                    | toe                       | 0.0034	False
+den                       | den                       | 0.6944	True
+the                       | the                       | 0.9959	True
+final                     | final                     | 0.9671	True
+--------------------------------------------------------------------------------
+[218000/300000] Train loss: 0.13424, Valid loss: 3.10064, Elapsed_time: 65123.13319
+Current_accuracy : 78.860, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+this                      | this                      | 0.5518	True
+natwest                   | natwest                   | 0.4792	True
+bus                       | bus                       | 0.9916	True
+industrial                | industrial                | 0.8901	True
+1984                      | 1984                      | 0.5882	True
+--------------------------------------------------------------------------------
+[220000/300000] Train loss: 0.13444, Valid loss: 3.07782, Elapsed_time: 65720.65540
+Current_accuracy : 79.117, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+lift                      | lift                      | 0.6626	True
+yerleskesi                | yerleskesi                | 0.6979	True
+fire                      | fire                      | 1.0000	True
+size                      | size                      | 0.9339	True
+kyro                      | kyro                      | 0.2358	True
+--------------------------------------------------------------------------------
+[222000/300000] Train loss: 0.13419, Valid loss: 3.04606, Elapsed_time: 66319.58962
+Current_accuracy : 79.655, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+modified                  | modified                  | 0.5047	True
+essex                     | essex                     | 0.8411	True
+offer                     | offer                     | 0.1623	True
+wrath                     | wrath                     | 0.7975	True
+on                        | on                        | 0.9395	True
+--------------------------------------------------------------------------------
+[224000/300000] Train loss: 0.13447, Valid loss: 3.12049, Elapsed_time: 66917.10553
+Current_accuracy : 78.669, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+university                | university                | 0.4850	True
+jur                       | jir                       | 0.1864	False
+sainte                    | sainte                    | 0.5172	True
+cinemas                   | cinemas                   | 0.6142	True
+so                        | so                        | 0.9406	True
+--------------------------------------------------------------------------------
+[226000/300000] Train loss: 0.13317, Valid loss: 3.31512, Elapsed_time: 67514.77989
+Current_accuracy : 79.034, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ave                       | ave                       | 0.9714	True
+local                     | local                     | 0.2167	True
+gift                      | gift                      | 0.1558	True
+max                       | max                       | 0.3310	True
+tangs                     | tangs                     | 0.3693	True
+--------------------------------------------------------------------------------
+[228000/300000] Train loss: 0.13415, Valid loss: 3.14108, Elapsed_time: 68113.18612
+Current_accuracy : 77.774, Current_norm_ED  : 0.91
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sale                      | salee                     | 0.1492	False
+the                       | the                       | 0.9956	True
+stor                      | stor                      | 0.9295	True
+this                      | this                      | 0.8752	True
+lion                      | lion                      | 0.9681	True
+--------------------------------------------------------------------------------
+[230000/300000] Train loss: 0.13406, Valid loss: 3.20312, Elapsed_time: 68710.38169
+Current_accuracy : 79.009, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+bob                       | bob                       | 0.9417	True
+station                   | station                   | 0.9922	True
+skull                     | skull                     | 0.1012	True
+oma                       | omiia                     | 0.0095	False
+cafe                      | cafe                      | 0.9951	True
+--------------------------------------------------------------------------------
+[232000/300000] Train loss: 0.13063, Valid loss: 3.29545, Elapsed_time: 69310.03862
+Current_accuracy : 78.238, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+zajazd                    | triazd                    | 0.1839	False
+pepper                    | pepper                    | 0.5316	True
+council                   | council                   | 0.6263	True
+ore                       | gore                      | 0.0204	False
+timberland                | ambbrrand                 | 0.0326	False
+--------------------------------------------------------------------------------
+[234000/300000] Train loss: 0.13168, Valid loss: 3.18823, Elapsed_time: 69908.96141
+Current_accuracy : 78.313, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+your                      | your                      | 0.5714	True
+soma                      | soma                      | 0.7417	True
+united                    | united                    | 0.5073	True
+mandarin                  | mandarin                  | 0.0049	True
+hepp                      | hepp                      | 0.0635	True
+--------------------------------------------------------------------------------
+[236000/300000] Train loss: 0.13075, Valid loss: 3.38273, Elapsed_time: 70508.05369
+Current_accuracy : 79.349, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+5                         | 5                         | 0.9048	True
+brilliant                 | brillianty                | 0.5296	False
+business                  | business                  | 0.4928	True
+3                         | 3                         | 0.3058	True
+state                     | state                     | 0.3582	True
+--------------------------------------------------------------------------------
+[238000/300000] Train loss: 0.13170, Valid loss: 3.36538, Elapsed_time: 71107.32112
+Current_accuracy : 79.771, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+walk                      | walk                      | 0.8386	True
+exclusively               | exclusively               | 0.9745	True
+lines                     | lines                     | 0.0197	True
+julie                     | juliel                    | 0.6008	False
+panjab                    | panjab                    | 0.6444	True
+--------------------------------------------------------------------------------
+[240000/300000] Train loss: 0.13166, Valid loss: 2.95692, Elapsed_time: 71706.26248
+Current_accuracy : 78.851, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+koleston                  | koleston                  | 0.8567	True
+ave                       | ave                       | 0.9524	True
+osim                      | osim                      | 0.6970	True
+jose                      | jose                      | 0.6300	True
+exit                      | eit                       | 0.0129	False
+--------------------------------------------------------------------------------
+[242000/300000] Train loss: 0.13089, Valid loss: 3.18465, Elapsed_time: 72304.07449
+Current_accuracy : 79.456, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+market                    | market                    | 0.0479	True
+did                       | did                       | 0.9994	True
+pontian                   | pontian                   | 0.6947	True
+as                        | as                        | 0.9995	True
+science                   | science                   | 0.0236	True
+--------------------------------------------------------------------------------
+[244000/300000] Train loss: 0.13092, Valid loss: 3.33899, Elapsed_time: 72901.96612
+Current_accuracy : 79.365, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+13                        | 13                        | 0.7661	True
+hsbc                      | hsbc                      | 0.8095	True
+cottage                   | cottage                   | 0.0039	True
+school                    | school                    | 0.2096	True
+sheraton                  | sheraton                  | 0.7174	True
+--------------------------------------------------------------------------------
+[246000/300000] Train loss: 0.12734, Valid loss: 3.17271, Elapsed_time: 73499.54077
+Current_accuracy : 79.630, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+off                       | off                       | 0.3402	True
+express                   | express                   | 0.9932	True
+six                       | six                       | 0.3473	True
+cycling                   | cycling                   | 0.9507	True
+on                        | on                        | 0.9222	True
+--------------------------------------------------------------------------------
+[248000/300000] Train loss: 0.13206, Valid loss: 3.15582, Elapsed_time: 74097.87259
+Current_accuracy : 79.639, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+golf                      | golf                      | 0.6188	True
+great                     | greatt                    | 0.0071	False
+100                       | 100                       | 0.2728	True
+tony                      | tony                      | 0.9615	True
+a                         | a                         | 0.4350	True
+--------------------------------------------------------------------------------
+[250000/300000] Train loss: 0.13136, Valid loss: 3.03425, Elapsed_time: 74694.80640
+Current_accuracy : 79.291, Current_norm_ED  : 0.92
+Best_accuracy    : 79.829, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+street                    | street                    | 0.7339	True
+cafe                      | cafe                      | 0.9239	True
+mur                       | mur                       | 0.8490	True
+videos                    | videos                    | 0.1945	True
+cotton                    | fatton                    | 0.0858	False
+--------------------------------------------------------------------------------
+[252000/300000] Train loss: 0.12952, Valid loss: 3.18305, Elapsed_time: 75292.76704
+Current_accuracy : 80.028, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+secretary                 | secretary                 | 0.8533	True
+marinasquare              | marihassquare             | 0.0929	False
+epidor                    | epidor                    | 0.3344	True
+ladies                    | ladies                    | 0.3737	True
+health                    | health                    | 0.8101	True
+--------------------------------------------------------------------------------
+[254000/300000] Train loss: 0.13081, Valid loss: 3.38608, Elapsed_time: 75891.06237
+Current_accuracy : 79.365, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+studios                   | studios                   | 0.9560	True
+pop                       | pop                       | 0.9830	True
+videos                    | videos                    | 0.4305	True
+echuan                    | rechuan                   | 0.0122	False
+the                       | the                       | 0.7035	True
+--------------------------------------------------------------------------------
+[256000/300000] Train loss: 0.12990, Valid loss: 3.15932, Elapsed_time: 76490.28102
+Current_accuracy : 79.249, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+the                       | the                       | 0.6144	True
+online                    | online                    | 0.0255	True
+hungry                    | hungry                    | 0.2667	True
+pike                      | pike                      | 0.9601	True
+betriebsbereit            | cetriebssereet            | 0.0000	False
+--------------------------------------------------------------------------------
+[258000/300000] Train loss: 0.13027, Valid loss: 3.30704, Elapsed_time: 77088.91856
+Current_accuracy : 78.296, Current_norm_ED  : 0.91
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+this                      | this                      | 0.8838	True
+255                       | 255                       | 0.9693	True
+proud                     | proud                     | 0.5475	True
+at                        | a                         | 0.3074	False
+the                       | the                       | 0.4893	True
+--------------------------------------------------------------------------------
+[260000/300000] Train loss: 0.13019, Valid loss: 3.17467, Elapsed_time: 77687.49705
+Current_accuracy : 79.854, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+beauty                    | beauty                    | 0.7285	True
+leading                   | leading                   | 0.8997	True
+organising                | organising                | 0.8375	True
+ahead                     | ahead                     | 0.6924	True
+pay                       | pay                       | 0.9940	True
+--------------------------------------------------------------------------------
+[262000/300000] Train loss: 0.12840, Valid loss: 3.35182, Elapsed_time: 78286.41738
+Current_accuracy : 79.523, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+your                      | your                      | 0.9476	True
+movie                     | norie                     | 0.0667	False
+cafe                      | cafe                      | 0.7448	True
+jewelers                  | jewelers                  | 0.3995	True
+cocacola                  | goacol                    | 0.0021	False
+--------------------------------------------------------------------------------
+[264000/300000] Train loss: 0.12825, Valid loss: 3.16144, Elapsed_time: 78885.30881
+Current_accuracy : 79.158, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+winsfield                 | winsfield                 | 0.1273	True
+earning                   | eaming                    | 0.3080	False
+2000                      | 2000                      | 0.3416	True
+phones                    | phones                    | 0.7147	True
+for                       | for                       | 0.3916	True
+--------------------------------------------------------------------------------
+[266000/300000] Train loss: 0.12761, Valid loss: 3.33275, Elapsed_time: 79483.95093
+Current_accuracy : 79.407, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+star                      | star                      | 0.2825	True
+someones                  | someones                  | 0.7330	True
+hollywood                 | hollywoods                | 0.4378	False
+system                    | system                    | 0.8662	True
+about                     | about                     | 0.9904	True
+--------------------------------------------------------------------------------
+[268000/300000] Train loss: 0.12773, Valid loss: 2.98907, Elapsed_time: 80082.53638
+Current_accuracy : 79.854, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ship                      | ship                      | 0.7196	True
+king                      | king                      | 0.8057	True
+america                   | america                   | 0.5719	True
+centre                    | centre                    | 0.9666	True
+its                       | its                       | 0.2109	True
+--------------------------------------------------------------------------------
+[270000/300000] Train loss: 0.12821, Valid loss: 3.30466, Elapsed_time: 80681.91515
+Current_accuracy : 79.821, Current_norm_ED  : 0.92
+Best_accuracy    : 80.028, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ceylinco                  | ceylincoi                 | 0.7152	False
+cinemasterpieces          | cinemasterpieccss         | 0.2771	False
+happiness                 | happiness                 | 0.0064	True
+exit                      | exit                      | 0.6471	True
+forum                     | forum                     | 0.1907	True
+--------------------------------------------------------------------------------
+[272000/300000] Train loss: 0.12834, Valid loss: 3.26665, Elapsed_time: 81280.53160
+Current_accuracy : 80.053, Current_norm_ED  : 0.92
+Best_accuracy    : 80.053, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+your                      | your                      | 0.1567	True
+close                     | clss                      | 0.0110	False
+h                         | h                         | 0.8306	True
+central                   | central                   | 0.1644	True
+2                         | 2                         | 0.9897	True
+--------------------------------------------------------------------------------
+[274000/300000] Train loss: 0.12714, Valid loss: 2.99760, Elapsed_time: 81878.28776
+Current_accuracy : 79.473, Current_norm_ED  : 0.92
+Best_accuracy    : 80.053, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+of                        | of                        | 0.6722	True
+off                       | off                       | 0.4884	True
+queen                     | queen                     | 0.8948	True
+torquay                   | torquay                   | 0.4412	True
+gas                       | gas                       | 0.9751	True
+--------------------------------------------------------------------------------
+[276000/300000] Train loss: 0.12822, Valid loss: 3.34400, Elapsed_time: 82476.25643
+Current_accuracy : 79.564, Current_norm_ED  : 0.92
+Best_accuracy    : 80.053, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+insurance                 | insurance                 | 0.9474	True
+than                      | than                      | 0.6995	True
+nescafe                   | nescare                   | 0.0507	False
+starbucks                 | starbucks                 | 0.0179	True
+dining                    | dining                    | 0.3830	True
+--------------------------------------------------------------------------------
+[278000/300000] Train loss: 0.12682, Valid loss: 3.15524, Elapsed_time: 83074.71523
+Current_accuracy : 79.622, Current_norm_ED  : 0.92
+Best_accuracy    : 80.053, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+shop                      | shop                      | 0.0020	True
+australia                 | australia                 | 0.0736	True
+hard                      | hard                      | 0.9818	True
+main                      | main                      | 0.3520	True
+givenchy                  | givenchy                  | 0.7004	True
+--------------------------------------------------------------------------------
+[280000/300000] Train loss: 0.12616, Valid loss: 3.25800, Elapsed_time: 83674.42001
+Current_accuracy : 79.539, Current_norm_ED  : 0.92
+Best_accuracy    : 80.053, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+guy                       | guy                       | 0.4276	True
+national                  | national                  | 0.6084	True
+marc                      | marc                      | 0.2369	True
+hotel                     | hotel                     | 0.9586	True
+belfast                   | belfast                   | 0.3529	True
+--------------------------------------------------------------------------------
+[282000/300000] Train loss: 0.12306, Valid loss: 3.19975, Elapsed_time: 84271.98978
+Current_accuracy : 79.233, Current_norm_ED  : 0.92
+Best_accuracy    : 80.053, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+snecks                    | seecks                    | 0.1068	False
+for                       | for                       | 0.3919	True
+4                         | 4                         | 0.9824	True
+store                     | store                     | 0.3278	True
+centre                    | centre                    | 0.7487	True
+--------------------------------------------------------------------------------
+[284000/300000] Train loss: 0.12223, Valid loss: 3.28524, Elapsed_time: 84868.47172
+Current_accuracy : 79.407, Current_norm_ED  : 0.92
+Best_accuracy    : 80.053, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+the                       | the                       | 0.9995	True
+redwood                   | redwood                   | 0.8121	True
+reader                    | reader                    | 0.3628	True
+tokyo                     | dho                       | 0.0141	False
+tvo                       | the                       | 0.0034	False
+--------------------------------------------------------------------------------
+[286000/300000] Train loss: 0.12276, Valid loss: 3.24480, Elapsed_time: 85465.39728
+Current_accuracy : 80.476, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+fuji                      | paji                      | 0.1820	False
+denizen                   | devizen                   | 0.0077	False
+load                      | load                      | 0.9553	True
+1946                      | 1946                      | 0.2774	True
+zou                       | zou                       | 0.5216	True
+--------------------------------------------------------------------------------
+[288000/300000] Train loss: 0.12259, Valid loss: 3.39707, Elapsed_time: 86063.62008
+Current_accuracy : 79.548, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+tango                     | tango                     | 0.7578	True
+happy                     | happy                     | 0.1674	True
+orchard                   | orchars                   | 0.0073	False
+5                         | 5                         | 0.9432	True
+workshopelem              | workshopeler              | 0.0003	False
+--------------------------------------------------------------------------------
+[290000/300000] Train loss: 0.12202, Valid loss: 3.18600, Elapsed_time: 86662.41897
+Current_accuracy : 79.655, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+com                       | com                       | 0.6526	True
+famous                    | famous                    | 0.6555	True
+soup                      | soup                      | 0.4962	True
+login                     | login                     | 0.7513	True
+except                    | except                    | 0.7687	True
+--------------------------------------------------------------------------------
+[292000/300000] Train loss: 0.12090, Valid loss: 3.30028, Elapsed_time: 87260.39554
+Current_accuracy : 79.589, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+bean                      | i                         | 0.5371	False
+food                      | food                      | 0.5097	True
+solde                     | soldey                    | 0.2189	False
+higgins                   | higgins                   | 0.2280	True
+goemon                    | goemon                    | 0.5423	True
+--------------------------------------------------------------------------------
+[294000/300000] Train loss: 0.12127, Valid loss: 3.01937, Elapsed_time: 87857.62909
+Current_accuracy : 79.978, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+your                      | your                      | 0.6315	True
+here                      | here                      | 0.8811	True
+street                    | street                    | 0.4520	True
+produkt                   | produkt                   | 0.6705	True
+laser                     | laser                     | 0.5113	True
+--------------------------------------------------------------------------------
+[296000/300000] Train loss: 0.12101, Valid loss: 3.45647, Elapsed_time: 88455.17550
+Current_accuracy : 80.036, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+reyami                    | reyami                    | 0.3388	True
+zalad                     | zalada                    | 0.9750	False
+to                        | to                        | 0.6240	True
+laurence                  | laurence                  | 0.5651	True
+cte                       | cte                       | 0.3297	True
+--------------------------------------------------------------------------------
+[298000/300000] Train loss: 0.12142, Valid loss: 3.29163, Elapsed_time: 89052.04486
+Current_accuracy : 79.788, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+strings                   | strings                   | 0.9987	True
+medicscientist            | medioscicatiitt           | 0.0242	False
+camden                    | camden                    | 0.9991	True
+court                     | court                     | 0.9715	True
+erfolg                    | erfolg                    | 0.7084	True
+--------------------------------------------------------------------------------
+[300000/300000] Train loss: 0.12253, Valid loss: 3.03350, Elapsed_time: 89649.45853
+Current_accuracy : 79.722, Current_norm_ED  : 0.92
+Best_accuracy    : 80.476, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+science                   | science                   | 0.0674	True
+locked                    | locked                    | 0.9477	True
+tiny                      | tiny                      | 0.2567	True
+get                       | get                       | 0.9889	True
+phoa                      | monlie                    | 0.0014	False
+--------------------------------------------------------------------------------
