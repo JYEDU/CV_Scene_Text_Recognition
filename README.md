@@ -2,8 +2,8 @@
 4개 분야 선정하여 베이스라인 찍기
 ## My Repository
 1. [2D Objection Detection](https://github.com/JYEDU/CV_YOLOv5)
-2. [Scene Text Recognition](https://github.com/JYEDU/CV_Scene-Text-Recognition)
-3. [Super Resolution](https://github.com/JYEDU/CV_Super-Resolution)
+2. [Scene Text Recognition](https://github.com/JYEDU/CV_Scene_Text_Recognition)
+3. [Super Resolution](https://github.com/JYEDU/CV_Super_Resolution)
 4. [Image to Image(Ther2RGB)](https://github.com/JYEDU/CV_Image-To-Image)
 
 
