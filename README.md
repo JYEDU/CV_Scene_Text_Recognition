@@ -64,3 +64,29 @@
 [[Github](https://github.com/JYEDU/CV_Scene_Text_Recognition)]
 ### ③ 제출 과정에 대한 동영상 링크(베이스라인 알고리즘 설명 및 베이스라인을 찍기 위한 과정을 설명)
 [[Youtube](https://youtu.be/0vTweVWWDuc)]
+
+
+
+<br/><br/>
+
+## 원복 코드
+```
+# git clone
+git clone https://github.com/roatienza/deep-text-recognition-benchmark.git
+
+# download the file named dataset2.py and predict.py to get the result file
+git clone https://github.com/Denny-Warhol/2021ComputerVision-Scene-Text-Recognition.git
+
+# change directory
+cd deep-text-recognition-benchmark
+
+# install library
+pip3 install –r requirements.txt
+
+# train
+python train.py --train_data data_lmdb_release/training --valid data data_lmdb_release/evaluation –select_data MJ-ST --batch_ratio 0.5-0.5 --Transformation None --FeatureExtraction None --SequenceModeling None --Prediction None --Transformer --TransformerModel=vistr_tiny_patch16_224 --imgH 224 --imgW 224 --manualSeed=0 –sensitive 
+
+# test
+python predict.py --eval_data data_lmdb_release/evaluation --benchmark_all_eval --Transformation None --FeatureExtraction None --SequenceModeling None --Prediction None --Transformer --TransformerModel=vistr_tiny_patch16_224 -–sensitive --data_filtering_off --imgH 224 --imgW 224
+```
+
